@@ -166,7 +166,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("https://giphy.com/embed/26tn33aiTi1jkl6H6") no-repeat center;
+    background: url("https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b76117c96e71debbffe7d971613022179910316c1c633&rid=giphy.gif&ct=g") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
